@@ -1,6 +1,6 @@
 ### Thiago Carvalho
 #### Computer Science Student in UFRRJ
-![Computer Science Student in UFRRJ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Computer Science Student in UFRRJ](https://github.com/im-ThiagoC/im-ThiagoC/blob/main/Professional%20LinkedIn%20Header%20for%20Software%20Developer.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
