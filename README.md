@@ -39,18 +39,11 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im-ThiagoC&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
-  ![im-ThiagoC GitHub stats](https://github-readme-stats.vercel.app/api?username=im-ThiagoC&show_icons=true&theme=shadow_red)
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=im-ThiagoC&count_private=true&theme=shadow_red&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=im-ThiagoC&count_private=true&show_icons=true&theme=shadow_red&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  ![GitHub streak stats](https://streak-stats.demolab.com/?user=im-ThiagoC&theme=shadow_red)
+   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=im-ThiagoC&hide=HTML&langs_count=8&layout=compact&theme=shadow_red&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-
-
-
-
-
-
 
 
 
