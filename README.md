@@ -45,7 +45,9 @@ I made this project just for fun, it allows you to create nice and simple GitHub
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=im-ThiagoC&hide=HTML&langs_count=8&layout=compact&theme=shadow_red&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+<div align=center>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Thanks+For+Visiting!%F0%9F%91%8B)](https://git.io/typing-svg)
+</div>
 
 
 
