@@ -1,4 +1,13 @@
-### Hi there 👋
+### Thiago Carvalho
+#### Computer Science Student in UFRRJ
+![Computer Science Student in UFRRJ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: C++ / PYTHON / JAVA / C# / REACT / JS / HTML / GO
+
+- 🔭 I’m currently working on this page. 
+
 
 <!--
 **im-ThiagoC/im-ThiagoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
