@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=im-ThiagoC.im-ThiagoC&right_color=red" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=im-ThiagoC.im-ThiagoC&right_color=red"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Thiago+Carvalho!)](https://git.io/typing-svg)
 
@@ -9,7 +9,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 C | Python | C++ | Java | TypeScript | C# | React
 
 - 🔭 I’m currently working on this page.
-- 
+
 - 🌱 I’m currently learning Docker, AWS and GoLang
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/im-ThiagoC)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/im-ThiagoC/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/im_thiagoc/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/im_ThiagoC)  
