@@ -1,12 +1,16 @@
 ### Thiago Carvalho
 #### Computer Science Student in UFRRJ
-![Computer Science Student in UFRRJ](https://github.com/im-ThiagoC/im-ThiagoC/blob/main/Professional%20LinkedIn%20Header%20for%20Software%20Developer.png)
+![Computer Science Student in UFRRJ](https://github.com/im-ThiagoC/im-ThiagoC/blob/main/resources/banner.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 Skills: C++ / PYTHON / JAVA / C# / REACT / JS / HTML / GO
 
+
 - 🔭 I’m currently working on this page. 
+
 
 
 <!--
