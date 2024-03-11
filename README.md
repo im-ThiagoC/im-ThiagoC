@@ -1,8 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=im-ThiagoC.im-thiagoc" />
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=im-ThiagoC.visitor-badge)
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thiago+Carvalho!;" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Thiago+Carvalho!)](https://git.io/typing-svg)
 
 ![I am a Software Developer](https://github.com/im-ThiagoC/im-ThiagoC/blob/main/resources/banner.png)
 
