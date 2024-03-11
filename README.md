@@ -46,7 +46,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&center=true&lines=Thanks+For+Visiting!%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Thanks+For+Visiting!%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
 
