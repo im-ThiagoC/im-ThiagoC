@@ -40,7 +40,15 @@ I made this project just for fun, it allows you to create nice and simple GitHub
   <img align="center" width=60 height=60 src='https://github.com/im-ThiagoC/im-ThiagoC/assets/84046519/e3a870f7-982c-409d-838c-2f25464785e7' alt='X'>
 </div>
 
+
 <h2 align="center">⚡ Stats ⚡</h2>
+
+<div align="center">
+ 
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/im-ThiagoC?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=3&animation_delay=0.03&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=19_3&format=svg&weeks=40&colors=383838,640b0b,640b0b,800000&dark=true)
+
+</div>
+
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=im-ThiagoC&count_private=true&theme=shadow_red&border_radius=10" alt="streak stats"/>
@@ -48,8 +56,20 @@ I made this project just for fun, it allows you to create nice and simple GitHub
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=im-ThiagoC&hide=HTML&langs_count=8&layout=compact&theme=shadow_red&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+<br>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S3W2XKT)
+<p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fim-ThiagoC&s=40&c=800a0a&bg=00000000&no=2&ff=digi&tb=Visits%3A+&ta=" alt="visits"></p> 
+<br>
+</div>
+
+<div align="center">
+<h3> If you support me, click here, give me a coffee</h3>
+<a href="https://ko-fi.com/S6S3W2XKT" target="_blank">
+<img align="center" height="80" width="80" src="https://github.com/im-ThiagoC/im-ThiagoC/assets/84046519/d1545d0a-cf66-423d-b0f6-bde1e97c17b2">
+</a>
+</div>
+
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Thanks+For+Visiting!%F0%9F%91%8B)](https://git.io/typing-svg)
 
