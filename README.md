@@ -34,7 +34,20 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 - 🌱 I’m currently learning Docker, AWS and GoLang
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/im-ThiagoC)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/im-ThiagoC/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/im_thiagoc/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/im_ThiagoC)
+<div align="center">
+
+  <a href="https://github.com/im-ThiagoC" target="_blank">
+  <img align="center" width=65 height=65 src='https://github.com/im-ThiagoC/im-ThiagoC/assets/84046519/b6f6b870-eee2-4ee6-80ba-bd427723a509' alt='GitHub'>
+
+  <a href="https://www.linkedin.com/in/im-ThiagoC/" target="_blank">
+  <img align="center" width=60 height=60 src='https://github.com/im-ThiagoC/im-ThiagoC/assets/84046519/670f5ff7-cbc7-4644-a36d-bfe5f1bf97be' alt='LinkedIn'>
+
+  <a href="https://www.instagram.com/im_thiagoc/" target="_blank">
+  <img align="center" width=60 height=60 src='https://github.com/im-ThiagoC/im-ThiagoC/assets/84046519/e2578c4b-b40d-4587-97c5-f1d4009c83de' alt='Instagram'>
+
+  <a href="https://twitter.com/im_ThiagoC" target="_blank">
+  <img align="center" width=60 height=60 src='https://github.com/im-ThiagoC/im-ThiagoC/assets/84046519/e3a870f7-982c-409d-838c-2f25464785e7' alt='X'>
+</div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
