@@ -64,7 +64,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 <div align="center">
 <h3> If you support me, click here, give me a coffee</h3>
-<a href="https://ko-fi.com/S6S3W2XKT" target="_blank">
+<a href="https://ko-fi.com/imthiagoc" target="_blank">
 <img align="center" height="80" width="80" src="https://github.com/im-ThiagoC/im-ThiagoC/assets/84046519/d1545d0a-cf66-423d-b0f6-bde1e97c17b2">
 </a>
 </div>
