@@ -34,9 +34,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 - 🌱 I’m currently learning Docker, AWS and GoLang
 
-<div align=center>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/im-ThiagoC)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/im-ThiagoC/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/im_thiagoc/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/im_ThiagoC)
-</div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -47,6 +45,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=im-ThiagoC&hide=HTML&langs_count=8&layout=compact&theme=shadow_red&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S3W2XKT)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Thanks+For+Visiting!%F0%9F%91%8B)](https://git.io/typing-svg)
 
