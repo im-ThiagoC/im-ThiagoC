@@ -9,7 +9,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cs,dotnet,cpp,java,python,vscode,github,aws,azure" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cs,dotnet,cpp,java,python,vscode,github,aws,azure" />
     <img src="https://skillicons.dev/icons?i=nodejs,react,tailwind,javascript,typescript,git,nextjs,mysql,html,css," /><br>
 </div>
 
